@@ -1,0 +1,15 @@
+Risk Reduction Over Time and Treatment Plan,,,,,
+,,,,,
+Time Point,API ALE,Database ALE,Session ALE,Total ALE,Treatment Milestone
+Baseline,"$750,000","$31,250,000","$3,000,000","$35,000,000",Baseline exposure
+Day 30,"$75,000","$31,250,000","$3,000,000","$34,325,000",Deploy API Security Gateway; begin WAF/MFA implementation
+Day 90,"$75,000","$7,812,500","$150,000","$8,037,500",Deploy WAF and MFA; validate controls
+Month 6,"$75,000","$7,812,500","$150,000","$8,037,500","Optimize monitoring, tune controls, test effectiveness"
+Month 12,"$75,000","$7,812,500","$150,000","$8,037,500","Annual review, retest, renew/adjust risk treatment"
+,,,,,
+,,,,,
+Action,0-30 Days,31-90 Days,3-6 Months,6-12 Months,Owner
+API Security Gateway,Implement,Validate,,,Application Security
+Web Application Firewall,Plan / procure,Implement & validate,,,Security Engineering
+MFA Enhancement,Design / pilot,Implement & validate,,,IAM / Security
+Continuous assurance,,,Monitor / tune,Annual review,GRC / Security

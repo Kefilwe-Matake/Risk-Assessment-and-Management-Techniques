@@ -1,0 +1,10 @@
+Phase 1 - Risk Exposure Calculation,,,,,,,
+,,,,,,,
+Vulnerability,SLE,ARO,ALE,Share of Total ALE,Risk Priority,Probability Band,Impact Band
+API Authentication Bypass,"$5,000,000",15%,"$750,000",2.1%,Medium,Medium,Medium
+Database Injection Vulnerability,"$125,000,000",25%,"$31,250,000",89.3%,Critical,Medium,High
+Session Hijacking,"$7,500,000",40%,"$3,000,000",8.6%,High,High,Medium
+,,,,,,,
+Metric,Value,Interpretation,,,,,
+Total Baseline ALE,"$35,000,000",Total expected annual loss across the three identified vulnerabilities.,,,,,
+Highest Risk,Database Injection Vulnerability,"Largest financial exposure due to 500,000 records at risk.",,,,,

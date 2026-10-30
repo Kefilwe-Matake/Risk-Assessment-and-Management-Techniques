@@ -1,0 +1,12 @@
+Risk Heat Map - Probability vs Financial Impact,,,
+,,,
+Probability \ Impact,Low (<$5m),Medium ($5m-$10m),High (>$10m)
+High (>30%),,Session Hijacking,
+Medium (15%-30%),,API Authentication Bypass,Database Injection Vulnerability
+Low (<15%),,,
+,,,
+Priority,Definition used in this workbook,,
+Critical,"ALE > $10,000,000",,
+High,"ALE $1,000,000-$10,000,000",,
+Medium,"ALE $250,000-$999,999",,
+Low,"ALE < $250,000",,

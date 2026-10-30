@@ -1,0 +1,15 @@
+Phase 2 - Control Cost-Benefit Analysis,,,,,,,,,,,
+,,,,,,,,,,,
+Control,Mapped Risk,Current ALE,Effectiveness,Residual ALE,Risk Reduction,Initial Investment,Annual Maintenance,First-Year Cost,ROI,Payback (Years),Payback (Days)
+Advanced API Security Gateway,API Authentication Bypass,"$750,000",90%,"$75,000","$675,000","$350,000","$50,000","$400,000",68.8%,0.56,204.4
+Web Application Firewall (WAF),Database Injection Vulnerability,"$31,250,000",75%,"$7,812,500","$23,437,500","$150,000","$25,000","$175,000",13292.9%,0.01,2.3
+Multi-Factor Authentication Enhancement,Session Hijacking,"$3,000,000",95%,"$150,000","$2,850,000","$200,000","$30,000","$230,000",1139.1%,0.07,25.9
+,,,,,,,,,,,
+Portfolio Summary,Value,,,,,,,,,,
+Baseline ALE,"$35,000,000",,,,,,,,,,
+Residual ALE after all controls,"$8,037,500",,,,,,,,,,
+Total Annual Risk Reduction,"$26,962,500",,,,,,,,,,
+Total Initial Investment,"$700,000",,,,,,,,,,
+Total Annual Maintenance,"$105,000",,,,,,,,,,
+Total First-Year Cost,"$805,000",,,,,,,,,,
+Portfolio First-Year ROI,3249.4%,,,,,,,,,,
